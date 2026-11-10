@@ -1,0 +1,7 @@
+{
+  "apiKey": "sk-6b0f4ae989af4d96a3c1e45a1e22bb25",
+  "baseUrl": "https://api.deepseek.com",
+  "model": "deepseek-chat",
+  "timeout": 15.0,
+  "offline": false
+}
